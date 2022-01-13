@@ -1,0 +1,34 @@
+html {
+  font-size: 30px; /* px bedeutet 'pixels': die Schriftgröße wird auf 30 Pixel gesetzt  */
+  font-family: Luxurious Roman; /* hier kommt der Name der ausgewählten Schriftfamilie hin */
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #3333ff;
+}
+body {
+  width: 620px;
+  margin: 0 100;
+  background-color: #00ff00;
+  padding: 0 20px 20px 20px;
+  border: 15px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 3px black;
+}
+img {
+  display: block;
+  margin: 0 center;
+}
